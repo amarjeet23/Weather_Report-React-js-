@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  background-image:url('pic.jpg');
+  background-repeat:no-repeat;
+  background-size:auto;
+  height:800px;
+  width:100%
+}
+
+
+
